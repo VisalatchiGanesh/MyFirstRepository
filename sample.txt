@@ -1,0 +1,1 @@
+This sample.txt is different from 'master' sample.txt file
