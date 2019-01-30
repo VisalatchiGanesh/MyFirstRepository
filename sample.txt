@@ -1,8 +1,0 @@
----- Starting of the file -----
-
-This is "sample.txt" file.
-I (VisalatchiGanesh) created this file initially in the "master".
-After that created the branch "sampleFirstBranch" which points to
-this same "sample.txt" file.
-
------ End of the file ---------
